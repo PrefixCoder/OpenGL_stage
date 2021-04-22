@@ -1,7 +1,7 @@
 # OpenGL_stage
 
 A little OpenGL project-experiment I made at the end of 2018  
-"Курсовая" means course-project
+"Курсовая" means "course project"
 
 It contains some basic features, such as:
 - first-person camera view
